@@ -1,7 +1,6 @@
 # Daniil Konovalov
 **********
 **********
-**********
 ## Contacts
 * Diskord : Doktorjkeeey#7610
 * Telegram : @KinaAzurbaev
