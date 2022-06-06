@@ -16,7 +16,7 @@ I hope I will overcome myself. Break myself and mold myself alive. Build myself 
 + Knowledge of Russian laws
 ## Code Example
 ```
-function numberToString(num ) {
+function numberToString(num) {
  return num = String(num);
   // Return a string of the number here!
 }
